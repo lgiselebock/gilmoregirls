@@ -1,6 +1,6 @@
 Package: gilmoregirls
 Title: The Entire Transcript from Gilmore Girls in Tidy Format
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Luisa", 
            family = "Böck", 
@@ -15,3 +15,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 URL: https://github.com/lgiselebock/gilmoregirls
 BugReports: https://github.com/lgiselebock/gilmoregirls/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
